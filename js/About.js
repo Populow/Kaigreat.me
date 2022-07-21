@@ -1,0 +1,3 @@
+function ac() {
+    document.querySelector('')
+}
